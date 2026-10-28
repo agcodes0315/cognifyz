@@ -1,5 +1,3 @@
-<div align="center">
-
 # ☕ Cognifyz Java Development Internship
 ### A progressive Java engineering portfolio covering core programming, OOP, file handling, networking, concurrency, security and desktop development
 
